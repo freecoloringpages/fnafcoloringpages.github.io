@@ -10,9 +10,9 @@ tags: [Foxy]
 
 **In the series of Fnaf Coloring Pages Foxy:**
 
-* [Fnaf Coloring Pages Foxy - Part 1](https://fnafcoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-1.html)
-* [Fnaf Coloring Pages Foxy - Part 2](https://fnafcoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-2.html)
-* [Fnaf Coloring Pages Foxy - Part 3](https://fnafcoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-3.html)
+* [Fnaf Coloring Pages Foxy - Part 1](https://fnafcoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-1)
+* [Fnaf Coloring Pages Foxy - Part 2](https://fnafcoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-2)
+* [Fnaf Coloring Pages Foxy - Part 3](https://fnafcoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-3)
 
 ## Fnaf Coloring Pages Foxy No. 1
 ![Fnaf Coloring Pages Foxy 1](https://fnafcoloringpages.github.io/img/Fnaf-Coloring-Pages-Foxy%20(1).jpg "Fnaf Coloring Pages Foxy 1")
@@ -21,7 +21,7 @@ tags: [Foxy]
 
 **More related posts of Fnaf Coloring Pages Foxy:**
 
-* [Fnaf Coloring Pages Foxy - Part 1](https://freecoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-1.html)
-* [Fnaf Coloring Pages Foxy - Part 2](https://freecoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-2.html)
-* [Fnaf Coloring Pages Foxy - Part 3](https://freecoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-3.html)
+* [Fnaf Coloring Pages Foxy - Part 1](https://freecoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-1)
+* [Fnaf Coloring Pages Foxy - Part 2](https://freecoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-2)
+* [Fnaf Coloring Pages Foxy - Part 3](https://freecoloringpages.github.io/2017/12/14/Fnaf-Coloring-Pages-Foxy-part-3)
 
