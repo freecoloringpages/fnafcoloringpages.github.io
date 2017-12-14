@@ -9,24 +9,16 @@ exclude:          ['.asset_pipeline', 'deploy.sh', 'server-script.sh']
 permalink:        /blog/:title
 
 # Setup
-title:            Joe Kampschmidt's Code
-description:      "a pragmatic approach to web and software development"
-url:              https://www.jokecamp.com
+title:            Fnaf Coloring Pages
+description:      "Free And Printable Fnaf Coloring Pages For Kids"
+url:              https://thomasthevinh.github.io/
 #url:              http://localhost:4000
 baseurl:          /
 
 author:
-  name:           'Joe Kampschmidt'
-  url:            https://twitter.com/jokecamp
-  email:          joe.kampschmidt@gmail.com
-
-githubProject:    https://github.com/jokecamp/jokecamp.com/
-githubBranch:     tree/master/
-
-# Custom vars
-github:           https://github.com/jokecamp
-twitter:          https://twitter.com/jokecamp
-stackoverflow:    http://stackoverflow.com/users/215502/kampsj
+  name:           'Thomas Vinh'
+  url:            http://autoizipro.com/
+  email:          thomasthevinh@gmail.com
 
 version:          1.0
 
