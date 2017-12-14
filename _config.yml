@@ -11,20 +11,8 @@ permalink:        /blog/:title
 # Setup
 title:            Fnaf Coloring Pages
 description:      "Free And Printable Fnaf Coloring Pages For Kids"
-url:              https://thomasthevinh.github.io/
-#url:              http://localhost:4000
-baseurl:          /
 
 author:
   name:           'Thomas Vinh'
   url:            http://autoizipro.com/
   email:          thomasthevinh@gmail.com
-
-version:          1.0
-
-asset_pipeline:
-  bundle: true            # Default = true
-  compress: true          # Default = true
-  output_path: assets     # Default = assets
-  display_path: assets       # Default = nil
-  gzip: true              # Default = false
