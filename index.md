@@ -1,30 +1,12 @@
 ---
 layout: default
-title: Home
-desc: 'A technical website for Joe Kampschmidt (jokecamp) about web development and coding projects. I am a developer. I write code and occasionally blog.'
+title: Fnaf Coloring Pages
+desc: 'Free And Printable Fnaf Coloring Pages For Kids'
 sitemap:
   priority: .8
-
 ---
 
-# About
-
-<div itemscope itemtype="http://data-vocabulary.org/Person">
-My name is <span itemprop="name">Joe Kampschmidt</span>. I usually appear online as <em itemprop="nickname">jokecamp</em>. I am a <span itemprop='role'>developer</span>. I tend to write very specific blog posts solving practical issues with the goal of saving the reader's time.
-</div>
-
-<br>
-<div>
-This website is open sourced on <a href="https://github.com/jokecamp/jokecamp.com">github at jokecamp/jokecamp.com</a>. Feel free to submit pull requests when you find my typos.
-</div>
-
-
-## Online Presence
-
-- <a rel="me" href="{{ site.stackoverflow }}" title="Joe's stackoverflow account - aka street credit">kampsj on StackOverflow</a>
-- <a rel="me" href="{{ site.twitter }}" title="Joe's twitter account">@jokecamp on twitter</a>
-
-## Blog Posts
+## All Fnaf Coloring Pages For Kids
 
 <ul class="features">
 {% for post in site.posts  %}
