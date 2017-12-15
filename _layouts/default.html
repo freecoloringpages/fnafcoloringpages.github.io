@@ -4,14 +4,7 @@
   <body>
     <div class="masthead">
       <div class="container center">
-        <a href="{{ site.baseurl }}" title="also known as @jokecamp" class="masthead-title">{{ site.title }}</a>
-
-        <nav class="nav" role="navigation">
-          <ul>
-            {% assign pages_list = site.pages %}{% for node in pages_list %}{% if node.title != null %}{% if node.layout == "page" %}{% if node.featured == true %}<li><a class="{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}" title="Joe's {{node.title}}">{{ node.title }}</a></li>{% endif %}{% endif %}{% endif %}{% endfor %}
-            <li><a rel="me" href="{{ site.github }}" title="Joe's github page - commit all the things">Code</a></li>
-          </ul>
-        </nav>
+        <a href="{{ site.baseurl }}" title="Fnaf Coloring Pages For Kids" class="masthead-title">{{ site.title }}</a>
       </div>
     </div> <!-- end masthead -->
 
@@ -25,8 +18,8 @@
         <ul>
           <li><a href="/atom.xml" title="Atom Feed">Atom Feed</a></li>
           <li><a href="/rss.xml" title="RSS Feed">RSS Feed</a></li>
-          <li><a href="{{ site.githubProject }}" title="View Source on GitHub">View Source</a></li>
-          <li><a href="mailto:joe.kampschmidt@gmail.com" title="email me">Contact me</a></li>
+          <li><a href="http://autoizipro.com" title="Author's website">AutoIziPro</a></li>
+          <li><a href="mailto:thomasthevinh@gmail.com" title="email me">Contact me</a></li>
         </ul>
       </div>
 
