@@ -1,0 +1,12 @@
+---
+layout: post
+title: Fnaf Coloring Pages Freddy - Part 3
+desc: Free and Printable Fnaf Coloring Pages Freddy - Part 3
+tags: [Freddy]
+---
+> This page is about [Fnaf Coloring Pages Freddy](https://fnafcoloringpages.github.io/). Freddy Fazbear is the titular main antagonist of Five Nights at Freddy's, who later appears as variations in the succeeding games, and is the mascot of Freddy Fazbear's Pizza. He is an animatronic bear who, like the other animatronics in the game, is left in a 'free-roaming mode' at night, during which he wanders around Freddy Fazbear's Pizza, along with the other animatronics, until 6 AM, to prevent their servos from locking up. Like the other animatronics, Freddy Fazbear will try to forcefully stuff any human he sees after hours into a Freddy Fazbear suit, resulting in death. [Source: https://wikia.com/](https://wikia.com/)
+
+|Previous Fnaf Coloring Pages Freddy: |[Part 1](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-1) - [Part 2](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-2) - |
+|:-:|:-:|
+|![Fnaf Coloring Pages Freddy 3](https://fnafcoloringpages.github.io/img/Fnaf-Coloring-Pages-Freddy%20(3).jpg "Fnaf Coloring Pages Freddy 3")|<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle \|\| []).push({}); </script>|
+| Next Fnaf Coloring Pages Freddy: |[Part 4](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-4) - [Part 5](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-5) - [Part 6](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-6) - [Part 7](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-7) - [Part 8](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-8) - [Part 9](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-9) - [Part 10](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-10) - [Part 11](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-11) - [Part 12](https://fnafcoloringpages.github.io/blog/Fnaf-Coloring-Pages-Freddy-part-12) - |
