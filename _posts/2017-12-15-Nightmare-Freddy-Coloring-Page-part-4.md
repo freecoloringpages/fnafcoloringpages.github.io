@@ -1,0 +1,12 @@
+---
+layout: post
+title: Nightmare Freddy Coloring Page - Part 4
+desc: Free and Printable Nightmare Freddy Coloring Page - Part 4
+tags: [Nightmare, Freddy]
+---
+> This page is about [Nightmare Freddy Coloring Page](https://fnafcoloringpages.github.io/). Nightmare Freddy is an extensively tattered and exaggerated version of Freddy Fazbear, even more so than his appearance in the second game. Like the original Freddy, he is brown in color with lighter coloring on his stomach, ears, and muzzle. His arms are bulky and held out wide in a similar fashion to the other nightmare animatronics and his black top hat and bow tie are present. The hat looks very torn with few wires poking out. He has long nearly sharp teeth and razor-sharp claws with shining yellow eyes, giving him a more macabre appearance than his original counterpart. [Source: https://wikia.com/](https://wikia.com/)
+
+|Previous Nightmare Freddy Coloring Page: |[Part 1](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-1) - [Part 2](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-2) - [Part 3](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-3) - |
+|:-:|:-:|
+|![Nightmare Freddy Coloring Page 4](https://fnafcoloringpages.github.io/img/Nightmare-Freddy-Coloring-Page%20(4).jpg "Nightmare Freddy Coloring Page 4")|<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle \|\| []).push({}); </script>|
+| Next Nightmare Freddy Coloring Page: |[Part 5](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-5) - [Part 6](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-6) - [Part 7](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-7) - [Part 8](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-8) - [Part 9](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-9) - [Part 10](https://fnafcoloringpages.github.io/blog/Nightmare-Freddy-Coloring-Page-part-10) - |
